@@ -7,9 +7,9 @@ import (
 	"crypto/rand"
 
 	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/snowfork/go-substrate-rpc-client/signature"
-	"github.com/snowfork/go-substrate-rpc-client/types"
-	"github.com/snowfork/polkadot-ethereum/relayer/crypto"
+	"github.com/simplexprotocol/go-substrate-rpc-client/signature"
+	"github.com/simplexprotocol/go-substrate-rpc-client/types"
+	"github.com/simplexprotocol/polkadot-ethereum/relayer/crypto"
 )
 
 var _ crypto.Keypair = &Keypair{}

@@ -9,8 +9,8 @@ import (
 	"golang.org/x/sync/errgroup"
 
 	"github.com/sirupsen/logrus"
-	"github.com/snowfork/polkadot-ethereum/relayer/chain"
-	"github.com/snowfork/polkadot-ethereum/relayer/crypto/sr25519"
+	"github.com/simplexprotocol/polkadot-ethereum/relayer/chain"
+	"github.com/simplexprotocol/polkadot-ethereum/relayer/crypto/sr25519"
 )
 
 type Chain struct {

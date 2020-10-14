@@ -12,9 +12,9 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/snowfork/polkadot-ethereum/relayer/chain"
-	"github.com/snowfork/polkadot-ethereum/relayer/chain/ethereum"
-	"github.com/snowfork/polkadot-ethereum/relayer/chain/substrate"
+	"github.com/simplexprotocol/polkadot-ethereum/relayer/chain"
+	"github.com/simplexprotocol/polkadot-ethereum/relayer/chain/ethereum"
+	"github.com/simplexprotocol/polkadot-ethereum/relayer/chain/substrate"
 	"github.com/spf13/viper"
 	"golang.org/x/sync/errgroup"
 

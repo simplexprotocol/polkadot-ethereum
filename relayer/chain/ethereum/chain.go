@@ -6,11 +6,11 @@ package ethereum
 import (
 	"context"
 
-	"github.com/snowfork/polkadot-ethereum/relayer/chain"
+	"github.com/simplexprotocol/polkadot-ethereum/relayer/chain"
 	"golang.org/x/sync/errgroup"
 
 	"github.com/sirupsen/logrus"
-	"github.com/snowfork/polkadot-ethereum/relayer/crypto/secp256k1"
+	"github.com/simplexprotocol/polkadot-ethereum/relayer/crypto/secp256k1"
 )
 
 // Chain streams the Ethereum blockchain and routes tx data packets

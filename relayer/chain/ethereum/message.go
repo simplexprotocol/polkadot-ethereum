@@ -9,8 +9,8 @@ import (
 
 	etypes "github.com/ethereum/go-ethereum/core/types"
 	"github.com/sirupsen/logrus"
-	"github.com/snowfork/go-substrate-rpc-client/scale"
-	"github.com/snowfork/polkadot-ethereum/relayer/chain"
+	"github.com/simplexprotocol/go-substrate-rpc-client/scale"
+	"github.com/simplexprotocol/polkadot-ethereum/relayer/chain"
 )
 
 type Message struct {
