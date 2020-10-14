@@ -12,9 +12,8 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/pierrec/xxHash v0.1.5 // indirect
 	github.com/rs/cors v1.7.0 // indirect
-	github.com/simplexprotocol/go-substrate-rpc-client v2.0.0-test+incompatible
+	github.com/simplexprotocol/go-substrate-rpc-client v1.0.0-test
 	github.com/sirupsen/logrus v1.6.0
-	github.com/snowfork/go-substrate-rpc-client v1.1.0 // indirect
 	github.com/spf13/cobra v1.0.0
 	github.com/spf13/viper v1.7.0
 	github.com/stretchr/testify v1.4.0
